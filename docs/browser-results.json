@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-02",
+  "browser": "ChatGPT in-app browser",
+  "pages": [
+    {
+      "page": "home",
+      "width": 1440,
+      "brokenImages": [],
+      "overflow": [],
+      "scrollWidth": 1425,
+      "viewport": 1425
+    },
+    {
+      "page": "home",
+      "width": 1024,
+      "brokenImages": [],
+      "overflow": [],
+      "scrollWidth": 1009,
+      "viewport": 1009
+    },
+    {
+      "page": "home",
+      "width": 768,
+      "brokenImages": [],
+      "overflow": [],
+      "scrollWidth": 753,
+      "viewport": 753
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "brokenImages": [],
+      "overflow": [],
+      "scrollWidth": 375,
+      "viewport": 375
+    },
+    {
+      "page": "home",
+      "width": 360,
+      "brokenImages": [],
+      "overflow": [],
+      "scrollWidth": 345,
+      "viewport": 345
+    },
+    {
+      "page": "catalog",
+      "width": 1440,
+      "brokenImages": [],
+      "cards": "297.328px 297.328px 297.344px",
+      "overflow": [],
+      "scrollWidth": 1425,
+      "viewport": 1425
+    },
+    {
+      "page": "catalog",
+      "width": 1024,
+      "brokenImages": [],
+      "cards": "231.656px 231.672px 231.672px",
+      "overflow": [],
+      "scrollWidth": 1009,
+      "viewport": 1009
+    },
+    {
+      "page": "catalog",
+      "width": 768,
+      "brokenImages": [],
+      "cards": "232.5px 232.5px",
+      "overflow": [],
+      "scrollWidth": 753,
+      "viewport": 753
+    },
+    {
+      "page": "catalog",
+      "width": 390,
+      "brokenImages": [],
+      "cards": "335px",
+      "overflow": [],
+      "scrollWidth": 375,
+      "viewport": 375
+    },
+    {
+      "page": "catalog",
+      "width": 360,
+      "brokenImages": [],
+      "cards": "313px",
+      "overflow": [],
+      "scrollWidth": 345,
+      "viewport": 345
+    },
+    {
+      "page": "r450",
+      "width": 1440,
+      "overflow": [],
+      "scrollWidth": 1425,
+      "tableFont": "14px",
+      "viewport": 1425
+    },
+    {
+      "page": "r450",
+      "width": 1024,
+      "overflow": [],
+      "scrollWidth": 1009,
+      "tableFont": "14px",
+      "viewport": 1009
+    },
+    {
+      "page": "r450",
+      "width": 768,
+      "overflow": [],
+      "scrollWidth": 753,
+      "tableFont": "14px",
+      "viewport": 753
+    },
+    {
+      "page": "r450",
+      "width": 390,
+      "overflow": [],
+      "scrollWidth": 375,
+      "tableFont": "14px",
+      "viewport": 375
+    },
+    {
+      "page": "r450",
+      "width": 360,
+      "overflow": [],
+      "scrollWidth": 345,
+      "tableFont": "14px",
+      "viewport": 345
+    }
+  ],
+  "interactions": {
+    "catalog": "search R-450; radio/IP67 -> 1; category-specific filters; chip removal; empty state; reset; descending order",
+    "mobileMenu": "closes after anchor navigation",
+    "form": "name and contact errors; valid email and phone; product and direction context; demo completion; Tab wrap; Escape and focus return",
+    "gallery": "dimensions drawing and alt",
+    "faq": "opens and closes"
+  }
+}

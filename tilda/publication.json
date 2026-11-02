@@ -1,0 +1,104 @@
+{
+  "project_id": "54225903",
+  "project_url": "https://tilda.cc/projects/?projectid=54225903",
+  "default_domain": "https://legacylab-b2b-demo.tilda.ws/",
+  "trial_until": "2026-11-16",
+  "status": "published",
+  "pages": {
+    "home": {
+      "id": "352790803",
+      "url": "https://tilda.cc/page/?pageid=352790803",
+      "status": "published",
+      "route": "/",
+      "title": "LegacyLab — радиосвязь и системы безопасности для бизнеса"
+    },
+    "catalog": {
+      "id": "352799003",
+      "status": "published",
+      "route": "/catalog",
+      "title": "Каталог оборудования LegacyLab — технический подбор"
+    },
+    "privacy": {
+      "id": "352799603",
+      "route": "/privacy",
+      "status": "published",
+      "title": "Обработка данных в демоверсии — LegacyLab"
+    },
+    "equipment-r-450": {
+      "id": "352799803",
+      "route": "/r-450",
+      "status": "published",
+      "title": "LegacyLab R-450 — портативная цифровая радиостанция | LegacyLab"
+    },
+    "equipment-r-410": {
+      "id": "352799903",
+      "route": "/r-410",
+      "status": "published",
+      "title": "LegacyLab R-410 — портативная аналоговая радиостанция | LegacyLab"
+    },
+    "equipment-r-520": {
+      "id": "352800003",
+      "route": "/r-520",
+      "status": "published",
+      "title": "LegacyLab R-520 — цифровая радиостанция с усиленной защитой | LegacyLab"
+    },
+    "equipment-c-420": {
+      "id": "352800103",
+      "route": "/c-420",
+      "status": "published",
+      "title": "LegacyLab C-420 — уличная ip-камера | LegacyLab"
+    },
+    "equipment-c-820": {
+      "id": "352800203",
+      "route": "/c-820",
+      "status": "published",
+      "title": "LegacyLab C-820 — уличная ip-камера высокой детализации | LegacyLab"
+    },
+    "equipment-c-410": {
+      "id": "352800303",
+      "route": "/c-410",
+      "status": "published",
+      "title": "LegacyLab C-410 — внутренняя купольная ip-камера | LegacyLab"
+    },
+    "equipment-a-210": {
+      "id": "352800403",
+      "route": "/a-210",
+      "status": "published",
+      "title": "LegacyLab A-210 — считыватель с клавиатурой | LegacyLab"
+    },
+    "equipment-a-310": {
+      "id": "352800503",
+      "route": "/a-310",
+      "status": "published",
+      "title": "LegacyLab A-310 — считыватель с защищённым интерфейсом | LegacyLab"
+    },
+    "equipment-n-810": {
+      "id": "352800603",
+      "route": "/n-810",
+      "status": "published",
+      "title": "LegacyLab N-810 — управляемый poe-коммутатор | LegacyLab"
+    },
+    "equipment-n-1610": {
+      "id": "352800703",
+      "route": "/n-1610",
+      "status": "published",
+      "title": "LegacyLab N-1610 — управляемый poe-коммутатор на 16 портов | LegacyLab"
+    },
+    "equipment-m-45": {
+      "id": "352800803",
+      "route": "/m-45",
+      "status": "published",
+      "title": "LegacyLab M-45 — выносной микрофон-динамик | LegacyLab"
+    },
+    "equipment-ch-45": {
+      "id": "352800903",
+      "route": "/ch-45",
+      "status": "published",
+      "title": "LegacyLab CH-45 — зарядный стакан | LegacyLab"
+    }
+  },
+  "public_url": "https://legacylab-b2b-demo.tilda.ws/",
+  "form_mode": "demo",
+  "noindex": true,
+  "implementation": "T123 with scoped HTML/CSS/JS, images on Tilda CDN, native Inter"
+}

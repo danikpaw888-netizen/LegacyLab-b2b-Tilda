@@ -1,0 +1,14 @@
+node_modules/
+.build-deps/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+docs/screenshots/tilda-login.png
+docs/screenshots/case-review.png

@@ -1,0 +1,122 @@
+[
+  {
+    "key": "home",
+    "route": "/",
+    "alias": "home",
+    "title": "LegacyLab — радиосвязь и системы безопасности для бизнеса",
+    "description": "Подбор радиосвязи, видеонаблюдения, контроля доступа и сетевого оборудования под условия объекта. Демонстрационный B2B-проект для Казахстана.",
+    "embed": "tilda/embeds/home.html"
+  },
+  {
+    "key": "catalog",
+    "route": "/catalog",
+    "alias": "catalog",
+    "title": "Каталог оборудования LegacyLab — технический подбор",
+    "description": "12 демонстрационных моделей: радиосвязь, IP-камеры, контроль доступа, PoE-коммутаторы и аксессуары. Поиск по модели и фильтры по характеристикам.",
+    "embed": "tilda/embeds/catalog.html"
+  },
+  {
+    "key": "privacy",
+    "route": "/privacy",
+    "alias": "privacy",
+    "title": "Обработка данных в демоверсии — LegacyLab",
+    "description": "Как работает тестовая форма LegacyLab: локальная проверка без передачи заявки получателю и сохранения на сервере.",
+    "embed": "tilda/embeds/privacy.html"
+  },
+  {
+    "key": "equipment-r-450",
+    "route": "/r-450",
+    "alias": "r-450",
+    "title": "LegacyLab R-450 — портативная цифровая радиостанция | LegacyLab",
+    "description": "LegacyLab R-450: Для координации смен на складе и производственной площадке. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-r-450.html"
+  },
+  {
+    "key": "equipment-r-410",
+    "route": "/r-410",
+    "alias": "r-410",
+    "title": "LegacyLab R-410 — портативная аналоговая радиостанция | LegacyLab",
+    "description": "LegacyLab R-410: Для голосовой связи рабочих групп с согласованными каналами. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-r-410.html"
+  },
+  {
+    "key": "equipment-r-520",
+    "route": "/r-520",
+    "alias": "r-520",
+    "title": "LegacyLab R-520 — цифровая радиостанция с усиленной защитой | LegacyLab",
+    "description": "LegacyLab R-520: Для работы смен в условиях пыли и влажности. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-r-520.html"
+  },
+  {
+    "key": "equipment-c-420",
+    "route": "/c-420",
+    "alias": "c-420",
+    "title": "LegacyLab C-420 — уличная ip-камера | LegacyLab",
+    "description": "LegacyLab C-420: Для наблюдения за въездом и зонами погрузки. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-c-420.html"
+  },
+  {
+    "key": "equipment-c-820",
+    "route": "/c-820",
+    "alias": "c-820",
+    "title": "LegacyLab C-820 — уличная ip-камера высокой детализации | LegacyLab",
+    "description": "LegacyLab C-820: Для обзора периметра с детальным изображением. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-c-820.html"
+  },
+  {
+    "key": "equipment-c-410",
+    "route": "/c-410",
+    "alias": "c-410",
+    "title": "LegacyLab C-410 — внутренняя купольная ip-камера | LegacyLab",
+    "description": "LegacyLab C-410: Для контроля коридоров и общих зон внутри здания. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-c-410.html"
+  },
+  {
+    "key": "equipment-a-210",
+    "route": "/a-210",
+    "alias": "a-210",
+    "title": "LegacyLab A-210 — считыватель с клавиатурой | LegacyLab",
+    "description": "LegacyLab A-210: Для входа по карте или коду в составе системы доступа. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-a-210.html"
+  },
+  {
+    "key": "equipment-a-310",
+    "route": "/a-310",
+    "alias": "a-310",
+    "title": "LegacyLab A-310 — считыватель с защищённым интерфейсом | LegacyLab",
+    "description": "LegacyLab A-310: Для подключения к совместимому контроллеру доступа. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-a-310.html"
+  },
+  {
+    "key": "equipment-n-810",
+    "route": "/n-810",
+    "alias": "n-810",
+    "title": "LegacyLab N-810 — управляемый poe-коммутатор | LegacyLab",
+    "description": "LegacyLab N-810: Для подключения камер и распределения питания. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-n-810.html"
+  },
+  {
+    "key": "equipment-n-1610",
+    "route": "/n-1610",
+    "alias": "n-1610",
+    "title": "LegacyLab N-1610 — управляемый poe-коммутатор на 16 портов | LegacyLab",
+    "description": "LegacyLab N-1610: Для объединения нескольких групп камер в единую сеть. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-n-1610.html"
+  },
+  {
+    "key": "equipment-m-45",
+    "route": "/m-45",
+    "alias": "m-45",
+    "title": "LegacyLab M-45 — выносной микрофон-динамик | LegacyLab",
+    "description": "LegacyLab M-45: Для работы с R-450 без извлечения радиостанции из крепления. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-m-45.html"
+  },
+  {
+    "key": "equipment-ch-45",
+    "route": "/ch-45",
+    "alias": "ch-45",
+    "title": "LegacyLab CH-45 — зарядный стакан | LegacyLab",
+    "description": "LegacyLab CH-45: Для зарядки аккумулятора R-450 на рабочем месте. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+    "embed": "tilda/embeds/equipment-ch-45.html"
+  }
+]

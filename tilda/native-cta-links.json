@@ -1,0 +1,66 @@
+[
+  {
+    "label": "LegacyLab R-450 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+R-450&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fr-450#request"
+  },
+  {
+    "label": "LegacyLab R-410 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+R-410&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fr-410#request"
+  },
+  {
+    "label": "LegacyLab R-520 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+R-520&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fr-520#request"
+  },
+  {
+    "label": "LegacyLab C-420 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+C-420&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fc-420#request"
+  },
+  {
+    "label": "LegacyLab C-820 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+C-820&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fc-820#request"
+  },
+  {
+    "label": "LegacyLab C-410 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+C-410&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fc-410#request"
+  },
+  {
+    "label": "LegacyLab A-210 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+A-210&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fa-210#request"
+  },
+  {
+    "label": "LegacyLab A-310 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+A-310&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fa-310#request"
+  },
+  {
+    "label": "LegacyLab N-810 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+N-810&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fn-810#request"
+  },
+  {
+    "label": "LegacyLab N-1610 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+N-1610&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fn-1610#request"
+  },
+  {
+    "label": "LegacyLab M-45 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+M-45&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fm-45#request"
+  },
+  {
+    "label": "LegacyLab CH-45 — Запросить предложение",
+    "url": "/?form-setter-product=LegacyLab+CH-45&form-setter-intent=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&form-setter-source_page=%2Fch-45#request"
+  },
+  {
+    "label": "Склады и логистика — Обсудить решение",
+    "url": "/?form-setter-direction=%D0%A1%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B+%D0%B8+%D0%BB%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&form-setter-intent=%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D0%BB%D1%8F+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0&form-setter-source_page=%2F#request"
+  },
+  {
+    "label": "Производственные площадки — Обсудить решение",
+    "url": "/?form-setter-direction=%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B8&form-setter-intent=%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D0%BB%D1%8F+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0&form-setter-source_page=%2F#request"
+  },
+  {
+    "label": "Офисные и коммерческие здания — Обсудить решение",
+    "url": "/?form-setter-direction=%D0%9E%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D0%B5+%D0%B8+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F&form-setter-intent=%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D0%BB%D1%8F+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0&form-setter-source_page=%2F#request"
+  },
+  {
+    "label": "Строительные объекты — Обсудить решение",
+    "url": "/?form-setter-direction=%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B&form-setter-intent=%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D0%BB%D1%8F+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0&form-setter-source_page=%2F#request"
+  }
+]

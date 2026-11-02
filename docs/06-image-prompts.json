@@ -1,0 +1,36 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "name": "radio",
+      "file": "dist/assets/radio.webp",
+      "prompt": "Use case: product-mockup. A single technically plausible professional digital handheld two-way radio for an engineering B2B equipment catalogue. Matte graphite black rugged body, long straight flexible antenna, two rotary knobs, small dark blank display, tactile keypad, speaker grille, side PTT button. Three-quarter front view, upright entire antenna fully visible. Clean very light cool gray seamless studio background, crisp soft shadow, realistic premium industrial product photography. No logos, words, labels or decorative elements. Square image, generous negative space. This is a fictional demonstration model."
+    },
+    {
+      "name": "camera",
+      "file": "dist/assets/camera.webp",
+      "prompt": "Use case: product-mockup. A single professional outdoor IP bullet security camera, white metal rectangular cylindrical housing with short sunshield, dark glass face, a single believable lens with infrared LEDs, white adjustable mounting bracket. Three-quarter view on clean very light cool gray seamless studio background, crisp soft shadow, realistic premium industrial product photography. No logos, no text, no extra objects. Square full object. Fictional demo equipment."
+    },
+    {
+      "name": "access",
+      "file": "dist/assets/access.webp",
+      "prompt": "Use case: product-mockup. A professional compact access control RFID reader with integrated numeric keypad, upright rectangular matte graphite device, twelve sensible tactile keys, narrow blue indicator at top, black glass upper panel. Three-quarter view on very light cool gray seamless studio background, soft shadow, accurate industrial design. No logos, letters or words. Square full object isolated with breathing room. Fictional demonstration model."
+    },
+    {
+      "name": "switch",
+      "file": "dist/assets/switch.webp",
+      "prompt": "Use case: product-mockup. A single compact eight-port managed PoE network switch. Dark graphite shallow metal desktop enclosure with precisely eight visible RJ45 sockets in one row at the front and two small uplink sockets grouped separately at right, subtle ventilation slots. Three-quarter view, studio equipment photo on very light cool gray seamless background. No cables, logos, readable text or decorative elements. Entire equipment fully visible, square composition."
+    },
+    {
+      "name": "accessory",
+      "file": "dist/assets/accessory.webp",
+      "prompt": "Use case: product-mockup. A single professional black remote speaker microphone accessory for a handheld radio, realistic rugged small rectangular speaker grille body with side PTT button, coiled black cable neatly arranged beside it and a two-pin radio connector. On a very light cool gray seamless studio background with soft shadow, premium industrial product photography, no logos, text, or extra equipment. Square complete object composition."
+    },
+    {
+      "name": "warehouse",
+      "file": "dist/assets/warehouse.webp",
+      "prompt": "Use case: photorealistic-natural. Wide calm editorial photograph of a modern logistics warehouse interior. Orderly high steel racks, boxed goods, clear concrete central aisle, steel trusses and daylight through roof lights, muted gray and blue industrial palette. No people, no logos, no signs or text. Technically plausible architecture, very high quality architectural photography with straight verticals. This is illustrative architecture, not a real company facility. Landscape composition."
+    }
+  ],
+  "notes": "Images optimized to WebP. Native SVG drawings are illustrations created in tools/build.py. Product photos are conceptual and reused within the same housing family."
+}

@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-02",
+  "pages": [
+    {
+      "description": "12 демонстрационных моделей: радиосвязь, IP-камеры, контроль доступа, PoE-коммутаторы и аксессуары. Поиск по модели и фильтры по характеристикам.",
+      "h1": [
+        "Каталог оборудования"
+      ],
+      "images": [],
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "Каталог оборудования LegacyLab — технический подбор",
+      "url": "https://legacylab-b2b-demo.tilda.ws/catalog",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab R-450: Для координации смен на складе и производственной площадке. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab R-450 — портативная цифровая радиостанция"
+      ],
+      "images": [],
+      "model": "LegacyLab R-450",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab R-450 — портативная цифровая радиостанция | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/r-450",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab R-410: Для голосовой связи рабочих групп с согласованными каналами. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab R-410 — портативная аналоговая радиостанция"
+      ],
+      "images": [],
+      "model": "LegacyLab R-410",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab R-410 — портативная аналоговая радиостанция | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/r-410",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab R-520: Для работы смен в условиях пыли и влажности. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab R-520 — цифровая радиостанция с усиленной защитой"
+      ],
+      "images": [],
+      "model": "LegacyLab R-520",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab R-520 — цифровая радиостанция с усиленной защитой | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/r-520",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab C-420: Для наблюдения за въездом и зонами погрузки. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab C-420 — уличная ip-камера"
+      ],
+      "images": [],
+      "model": "LegacyLab C-420",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab C-420 — уличная ip-камера | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/c-420",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab C-820: Для обзора периметра с детальным изображением. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab C-820 — уличная ip-камера высокой детализации"
+      ],
+      "images": [],
+      "model": "LegacyLab C-820",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab C-820 — уличная ip-камера высокой детализации | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/c-820",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab C-410: Для контроля коридоров и общих зон внутри здания. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab C-410 — внутренняя купольная ip-камера"
+      ],
+      "images": [],
+      "model": "LegacyLab C-410",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab C-410 — внутренняя купольная ip-камера | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/c-410",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab A-210: Для входа по карте или коду в составе системы доступа. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab A-210 — считыватель с клавиатурой"
+      ],
+      "images": [],
+      "model": "LegacyLab A-210",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab A-210 — считыватель с клавиатурой | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/a-210",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab A-310: Для подключения к совместимому контроллеру доступа. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab A-310 — считыватель с защищённым интерфейсом"
+      ],
+      "images": [],
+      "model": "LegacyLab A-310",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab A-310 — считыватель с защищённым интерфейсом | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/a-310",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab N-810: Для подключения камер и распределения питания. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab N-810 — управляемый poe-коммутатор"
+      ],
+      "images": [],
+      "model": "LegacyLab N-810",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab N-810 — управляемый poe-коммутатор | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/n-810",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab N-1610: Для объединения нескольких групп камер в единую сеть. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab N-1610 — управляемый poe-коммутатор на 16 портов"
+      ],
+      "images": [],
+      "model": "LegacyLab N-1610",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab N-1610 — управляемый poe-коммутатор на 16 портов | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/n-1610",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab M-45: Для работы с R-450 без извлечения радиостанции из крепления. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab M-45 — выносной микрофон-динамик"
+      ],
+      "images": [],
+      "model": "LegacyLab M-45",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab M-45 — выносной микрофон-динамик | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/m-45",
+      "width": 1265
+    },
+    {
+      "description": "LegacyLab CH-45: Для зарядки аккумулятора R-450 на рабочем месте. Характеристики, комплектация и запрос предложения. Демонстрационная модель.",
+      "h1": [
+        "LegacyLab CH-45 — зарядный стакан"
+      ],
+      "images": [],
+      "model": "LegacyLab CH-45",
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "LegacyLab CH-45 — зарядный стакан | LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/ch-45",
+      "width": 1265
+    },
+    {
+      "description": "Как работает тестовая форма LegacyLab: локальная проверка без передачи заявки получателю и сохранения на сервере.",
+      "h1": [
+        "Обработка данных в демоверсии"
+      ],
+      "images": [],
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex",
+      "scrollWidth": 1265,
+      "title": "Обработка данных в демоверсии — LegacyLab",
+      "url": "https://legacylab-b2b-demo.tilda.ws/privacy",
+      "width": 1265
+    },
+    {
+      "description": "Подбор радиосвязи, видеонаблюдения, контроля доступа и сетевого оборудования под условия объекта. Демонстрационный B2B-проект для Казахстана.",
+      "h1": [
+        "Оборудованиепод задачи вашего предприятия"
+      ],
+      "images": [],
+      "og": "https://static.tildacdn.ink/tila6339-3766-4735-b763-363365666561/og.jpg",
+      "robots": "noindex,nofollow",
+      "scrollWidth": 1265,
+      "title": "LegacyLab — радиосвязь и системы безопасности для бизнеса",
+      "url": "https://legacylab-b2b-demo.tilda.ws/",
+      "width": 1265
+    }
+  ],
+  "responsive": [
+    {
+      "cards": "297.328px 297.328px 297.344px",
+      "clientWidth": 1425,
+      "h1Font": "56px",
+      "page": "catalog",
+      "requestedWidth": 1440,
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "cards": "231.656px 231.672px 231.672px",
+      "clientWidth": 1009,
+      "h1Font": "56px",
+      "page": "catalog",
+      "requestedWidth": 1024,
+      "scrollWidth": 1009,
+      "viewport": 1024
+    },
+    {
+      "cards": "232.5px 232.5px",
+      "clientWidth": 753,
+      "h1Font": "56px",
+      "page": "catalog",
+      "requestedWidth": 768,
+      "scrollWidth": 753,
+      "viewport": 768
+    },
+    {
+      "cards": "335px",
+      "clientWidth": 375,
+      "h1Font": "36px",
+      "page": "catalog",
+      "requestedWidth": 390,
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "cards": "313px",
+      "clientWidth": 345,
+      "h1Font": "36px",
+      "page": "catalog",
+      "requestedWidth": 360,
+      "scrollWidth": 345,
+      "viewport": 360
+    },
+    {
+      "clientWidth": 1425,
+      "h1Font": "42px",
+      "page": "r450",
+      "requestedWidth": 1440,
+      "scrollWidth": 1425,
+      "table": "14px",
+      "viewport": 1440
+    },
+    {
+      "clientWidth": 1009,
+      "h1Font": "38px",
+      "page": "r450",
+      "requestedWidth": 1024,
+      "scrollWidth": 1009,
+      "table": "14px",
+      "viewport": 1024
+    },
+    {
+      "clientWidth": 753,
+      "h1Font": "34px",
+      "page": "r450",
+      "requestedWidth": 768,
+      "scrollWidth": 753,
+      "table": "14px",
+      "viewport": 768
+    },
+    {
+      "clientWidth": 375,
+      "h1Font": "36px",
+      "page": "r450",
+      "requestedWidth": 390,
+      "scrollWidth": 375,
+      "table": "14px",
+      "viewport": 390
+    },
+    {
+      "clientWidth": 345,
+      "h1Font": "34px",
+      "page": "r450",
+      "requestedWidth": 360,
+      "scrollWidth": 345,
+      "table": "14px",
+      "viewport": 360
+    },
+    {
+      "clientWidth": 1425,
+      "h1Font": "60px",
+      "page": "home",
+      "requestedWidth": 1440,
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "clientWidth": 1009,
+      "h1Font": "52px",
+      "page": "home",
+      "requestedWidth": 1024,
+      "scrollWidth": 1009,
+      "viewport": 1024
+    },
+    {
+      "clientWidth": 753,
+      "h1Font": "46px",
+      "page": "home",
+      "requestedWidth": 768,
+      "scrollWidth": 753,
+      "viewport": 768
+    },
+    {
+      "clientWidth": 375,
+      "h1Font": "38px",
+      "page": "home",
+      "requestedWidth": 390,
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "clientWidth": 345,
+      "h1Font": "35px",
+      "page": "home",
+      "requestedWidth": 360,
+      "scrollWidth": 345,
+      "viewport": 360
+    }
+  ],
+  "interactions": [
+    "catalog search R-450",
+    "radio and IP67",
+    "category-specific filters",
+    "empty state and reset",
+    "descending sort",
+    "R-450 gallery and alt",
+    "product and direction context",
+    "email demo completion",
+    "empty errors and focus",
+    "Tab/Shift+Tab wrap",
+    "Escape and focus return",
+    "mobile menu closes"
+  ]
+}
